@@ -1,5 +1,8 @@
 ##############################
-#This report...
+#This report looks to analyse and forecast the GDP per capita of the United Kingdom
+#Per capita gdp is the total value of all products and services produced in a country over a period of time divided by the total population.
+#This is a useful way to observe economic growth within a population as well as a general idea on a persons living standards within a country.
+#This will be explored using data gathered from The World Bank Group spanning from 1960 - 2000 and is measured in current US dollars.
 ##############################
 
 ##############################
